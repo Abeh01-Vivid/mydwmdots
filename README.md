@@ -1,0 +1,2 @@
+# mydwmdots
+dwm on Solus
